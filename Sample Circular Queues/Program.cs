@@ -1,15 +1,15 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Sample_Circular_Queues
 {
-    internal class Program
+    class Queues
     {
-        static void Main(string[] args)
+
+        int FRONT, REAR, max = 5;
+        int[] queue_array = new int[5];
+        public Queues()
         {
+
         }
     }
 }
